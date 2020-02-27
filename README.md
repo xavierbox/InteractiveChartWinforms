@@ -32,12 +32,7 @@ Other functionality such as interpolations and UI manipulation of the charts wil
 </code>
  </pre>
  
-<div class="row">
-  <div class="column">
-    <img src="Capture1.PNG" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="Capture2.PNG" alt="Forest" style="width:100%">
-  </div>
-</div>
+ ![alt-text-1](Capture1.PNG"title-1") ![alt-text-2](Capture2.PNG "title-2")
+ 
+ 
 
