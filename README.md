@@ -1,3 +1,11 @@
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+</style>
+
 # Interactive Chart for Winforms
 Work on progress...
 
