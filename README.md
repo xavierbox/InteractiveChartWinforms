@@ -9,7 +9,7 @@ This project is a dll that allows to add Zoomin, Panning and Editing to winforms
         {
             (...)
             
-            ChartInteractor = ChartInteractionZoomPanEdit.CreateInstance(chart2);
+            ChartInteractor = ChartInteractionZoomPanEdit.CreateInstance(chart1);
 
             (...)
         }
