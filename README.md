@@ -32,7 +32,7 @@ Other functionality such as interpolations and UI manipulation of the charts wil
 </code>
  </pre>
  
- ![alt-text-1](Capture1.PNG"title-1") ![alt-text-2](Capture2.PNG "title-2")
+ ![alt-text-1]("Capture1.PNG" ) ![alt-text-2]("Capture2.PNG" )
  
  
 
