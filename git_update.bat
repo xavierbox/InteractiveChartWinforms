@@ -23,6 +23,7 @@ git add ./TestChartControl/*.db*
 git add .gitignore 
 git add git_update.bat 
 git add *.sln
+git add *.md 
 
 
 
