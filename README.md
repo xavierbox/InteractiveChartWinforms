@@ -23,5 +23,13 @@ Other functionality such as interpolations and UI manipulation of the charts wil
        
 </code>
  </pre>
-<img src="Capture1.PNG" >
-<img src="Capture2.PNG" >
+ 
+<div class="row">
+  <div class="column">
+    <img src="Capture1.PNG" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Capture2.PNG" alt="Forest" style="width:100%">
+  </div>
+</div>
+
