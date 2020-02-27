@@ -24,3 +24,4 @@ Other functionality such as interpolations and UI manipulation of the charts wil
 </code>
  </pre>
 <img src="Capture1.PNG" >
+<img src="Capture2.PNG" >
