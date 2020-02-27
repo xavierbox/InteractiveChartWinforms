@@ -1,0 +1,8 @@
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\bin\Debug\ChartControl.dll
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\bin\Debug\ChartControl.pdb
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartControlExtensions.InteractiveChart.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartInteractions.csproj.GenerateResource.cache
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartControl.dll
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartControl.pdb
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartInteractions.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControl\obj\Debug\ChartInteractions.csprojAssemblyReference.cache

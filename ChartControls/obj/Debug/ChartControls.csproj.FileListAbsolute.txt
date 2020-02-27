@@ -1,0 +1,15 @@
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\bin\Debug\ChartControls.dll
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\bin\Debug\ChartControls.pdb
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\bin\Debug\Slb.Ocean.Petrel.UI.Controls.dll
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\bin\Debug\Slb.Ocean.Petrel.UI.Controls.xml
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.AxisConfigurationControl.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.BackgroundColorSelector.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.ChartMainControl.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.SeriesConfigurationControl.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.TitlesControl.resources
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.csproj.GenerateResource.cache
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.csproj.CopyComplete
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.dll
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.pdb
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\WinformsControls\ChartControl\ChartControls\obj\Debug\ChartControls.csprojAssemblyReference.cache

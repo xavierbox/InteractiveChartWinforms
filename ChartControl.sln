@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartInteractions", "ChartControl\ChartInteractions.csproj", "{AD1A0027-69C5-4C5C-B5D9-4C749131B9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChartControl", "TestChartControl\TestChartControl.csproj", "{9B8BE43A-EC90-4EE6-8DE7-53A1A1431864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{6635F1CE-F711-4E71-82D5-46F9E32D4889}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{69AFAC22-288E-4AFA-99CF-0212DE885E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartControls", "ChartControls\ChartControls.csproj", "{793022E5-6AB6-4C78-9436-9FCB89C14DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartControlLibrary", "Interaction\ChartControlLibrary\ChartControlLibrary\ChartControlLibrary.csproj", "{035D7AA6-BC47-48E2-9F89-32DCB624D053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1A0027-69C5-4C5C-B5D9-4C749131B9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1A0027-69C5-4C5C-B5D9-4C749131B9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1A0027-69C5-4C5C-B5D9-4C749131B9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1A0027-69C5-4C5C-B5D9-4C749131B9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8BE43A-EC90-4EE6-8DE7-53A1A1431864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8BE43A-EC90-4EE6-8DE7-53A1A1431864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8BE43A-EC90-4EE6-8DE7-53A1A1431864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8BE43A-EC90-4EE6-8DE7-53A1A1431864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6635F1CE-F711-4E71-82D5-46F9E32D4889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6635F1CE-F711-4E71-82D5-46F9E32D4889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6635F1CE-F711-4E71-82D5-46F9E32D4889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6635F1CE-F711-4E71-82D5-46F9E32D4889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AFAC22-288E-4AFA-99CF-0212DE885E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AFAC22-288E-4AFA-99CF-0212DE885E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AFAC22-288E-4AFA-99CF-0212DE885E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AFAC22-288E-4AFA-99CF-0212DE885E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793022E5-6AB6-4C78-9436-9FCB89C14DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793022E5-6AB6-4C78-9436-9FCB89C14DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793022E5-6AB6-4C78-9436-9FCB89C14DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793022E5-6AB6-4C78-9436-9FCB89C14DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035D7AA6-BC47-48E2-9F89-32DCB624D053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035D7AA6-BC47-48E2-9F89-32DCB624D053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035D7AA6-BC47-48E2-9F89-32DCB624D053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035D7AA6-BC47-48E2-9F89-32DCB624D053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685DE584-FE9C-4A0C-80D2-336E7E7A8292}
+	EndGlobalSection
+EndGlobal
